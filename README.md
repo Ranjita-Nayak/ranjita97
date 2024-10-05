@@ -2,12 +2,12 @@
 
 ## 🚀 About Me
 
-I am a passionate software developer with 4+ years of experience specializing in .NET Core, Web API, Dapper, and SQL Server. I have a deep understanding of software architecture and development, focusing on creating scalable, efficient solutions. I'm always excited to learn and apply new technologies to solve complex problems.
+I am a passionate software developer with 3+ years of experience specializing in .NET Core, Web API, Dapper, and SQL Server. I have a deep understanding of software architecture and development, focusing on creating scalable, efficient solutions. I'm always excited to learn and apply new technologies to solve complex problems.
 
 ## 💼 Professional Experience
 
 - **Languages:** C#, JavaScript, HTML, CSS, jQuery
-- **Frameworks:** .NET Core (5, 7, 8), .NET Framework (4.7, 4.8)
+- **Frameworks:** .NET Core (5, 6, 7, 8), .NET Framework (4.7, 4.8)
 - **Database:** SQL Server, Dapper, mySQL
 - **Cloud:** Microsoft Azure
 - **Web Development:** ASP.NET, Web API, MVC
