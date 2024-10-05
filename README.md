@@ -8,11 +8,10 @@ I am a passionate software developer with 3+ years of experience specializing in
 
 - **Languages:** C#, JavaScript, HTML, CSS, jQuery
 - **Frameworks:** .NET Core (5, 6, 7, 8), .NET Framework (4.7, 4.8)
-- **Database:** SQL Server, Dapper, mySQL
-- **Cloud:** Microsoft Azure
+- **Database:** SQL Server, Dapper, MSSQL
 - **Web Development:** ASP.NET, Web API, MVC
-- **Methodologies:** API Development, Database Administration (DBA), Fluent Validation
-- **Tools:** IIS, Git, Visual Studio, Azure DevOps
+- **Methodologies:** API Development, Fluent Validation
+- **Tools:** IIS, Git, Visual Studio
 - **Design Patterns:** Mediator, Repository Pattern, CQRS
 
 ## 🔧 Projects
@@ -38,8 +37,8 @@ I am a passionate software developer with 3+ years of experience specializing in
 
 ## 📫 How to Reach Me
 
-- **Email:** [Your Email Address]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** ranjita97nayak@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/ranjita-nayak-193213212/
 - **GitHub:** [[Your GitHub Profile]](https://github.com/NayakRanjita)
 
 Feel free to check out my repositories, contribute, or reach out if you'd like to collaborate on exciting projects!
